@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Nombre de la pagina</title>
+<style type="text/css">
+html {
+		font-family: sans-serif;
+		font-size: 15px;
+		color:  #fff;
+		padding: 25px;
+}
+h1 {
+		text-align: center;
+
+}
+	
+p {
+		margin-bottom: 15px;
+	}
+header {
+  background-color: rebeccapurple;
+  padding:-10px;
+  text-align: center;
+  font-size: 35px;
+  color: orangered;
+}
+body {
+    background-image: url(https://images.assetsdelivery.com/thumbnails/rvika/rvika1601/rvika160100002.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+img {
+
+		width: 200px;
+		height: 150px;
+}
+.table > img {
+		align-items: center;
+
+}	
+.tabla2 > table tr td {
+	border: 3px solid purple;
+
+}
+	a {
+		font-size: 24px;
+		font-weight: bold;
+		color: rgba(255 ,0 ,255 ,1);
+		text-decoration: none;
+		padding:  0.3em 0.5em;
+		border-radius: 5px;
+		background-color: rgba(235, 225, 25, 0.7);
+		transition: background-color 1s linear;
+		border: 3px solid purple;
+		margin: 2px;
+		padding: 2px;
+	} 
+</style>
+<header>
+	<h1 >Nombre de la pagina</h1>
+</header>
+</head>
+<body>		   
+<h1 style="font-size: 50px;
+		   color:  rebeccapurple;
+		   background-color: orangered;
+		   border: 3px solid rebeccapurple;
+		   margin: 350px;
+		   padding: 1px;">Titulo uno</h1>
+		   
+ <table>
+            <tbody>
+            <tr> <td>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyiLLjlqOw4MyxVsfTg8M1DI90AvoXcb91A&usqp=CAU" alt="" style="width: 55.5%; margin: 150px;">
+            </td>
+            <td>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyiLLjlqOw4MyxVsfTg8M1DI90AvoXcb91A&usqp=CAU" alt="" style="width: 100%; margin: 10px;">
+            </td> 
+            <td>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyiLLjlqOw4MyxVsfTg8M1DI90AvoXcb91A&usqp=CAU" style="width: 70.5%; margin: 90px;"/>
+            </td>
+            </tr>
+            </tbody>
+        </table>
+ <h3 style="background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyiLLjlqOw4MyxVsfTg8M1DI90AvoXcb91A&usqp=CAU); ">    
+<p> Parrafo de texto 1
+</p>
+<p>Parrafo de texto 2
+</p>
+<p>Parrafo de texto 3
+</p>
+<p>Parrafo de texto 4
+</p>
+<p>Parrafo de texto 5
+</p>
+</h3>
+</hr>
+
+<h1 style="font-size: 50px;
+		   color:  rebeccapurple;
+		   background-color: orangered;
+		   border: 3px solid rebeccapurple;
+		   margin: 350px;
+		   padding: 1px;">Titulo dos</h1>
+
+<h3 style="background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyiLLjlqOw4MyxVsfTg8M1DI90AvoXcb91A&usqp=CAU); ">    
+<p> Parrafo de texto 6
+</p>
+<p>Parrafo de texto 7
+</p>
+</h3>
+</body>
+<hr/>
+<p> <a><a href=""></a></p>
+<table>
